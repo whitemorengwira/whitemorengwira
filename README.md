@@ -9,6 +9,7 @@ My work sits between engineering, business operations, governance, and public-fa
 ## Start Here
 
 - Branded public showcase: https://github.com/whitemorengwira/nwhitesystems
+- Live portfolio index: https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/live-portfolio-index.md
 - Portfolio website: https://nwhite.systems
 - Professional contact: hello@nwhite.systems
 
