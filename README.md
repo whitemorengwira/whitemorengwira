@@ -2,10 +2,6 @@
 
 **Systems Architect | Full-Stack & AI Workflow Architect | Creative Technologist**
 
-![Generated portfolio visual for NWhite Systems](https://raw.githubusercontent.com/whitemorengwira/nwhitesystems/main/docs/assets/case-studies/nwhite-systems-hero.png)
-
-_Generated portfolio visual; not a confidential product screenshot._
-
 I design and build full-stack digital platforms, AI-assisted workflows, analytics and reporting systems, cloud deployment flows, and multimedia content systems for regulated and high-performance environments.
 
 My work sits between engineering, business operations, governance, and public-facing digital experience. I work across React, Next.js, Node.js, TypeScript, JavaScript, Python, APIs, cloud platforms, automation, measurement, creative technology, and broadcast-ready content workflows.
@@ -19,6 +15,10 @@ My work sits between engineering, business operations, governance, and public-fa
 | 10 minutes | [Recruiter review guide](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/recruiter-review-guide.md) | Role-fit map, review checklist, strongest evidence by category |
 | Technical review | [Architecture notes](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/architecture-notes.md) | Delivery model, controlled disclosure, and system design judgment |
 | Deep review | [SAFA ProMax source](https://github.com/whitemorengwira/safa-promax) | Next.js/TypeScript delivery, local build/audit verification, curated source surface |
+
+<img src="https://raw.githubusercontent.com/whitemorengwira/nwhitesystems/main/docs/assets/case-studies/nwhite-systems-hero.png" alt="Generated portfolio visual for NWhite Systems" width="760">
+
+_Generated portfolio visual; not a confidential product screenshot._
 
 ## Best Evidence By Role
 
