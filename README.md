@@ -2,9 +2,6 @@
 
 **Systems Architect | Full-Stack & AI Workflow Architect | Creative Technologist**
 
-[![Portfolio hygiene](https://github.com/whitemorengwira/nwhitesystems/actions/workflows/portfolio-hygiene.yml/badge.svg)](https://github.com/whitemorengwira/nwhitesystems/actions/workflows/portfolio-hygiene.yml)
-[![SAFA public build](https://github.com/whitemorengwira/safa-promax/actions/workflows/ci.yml/badge.svg)](https://github.com/whitemorengwira/safa-promax/actions/workflows/ci.yml)
-
 ![Generated portfolio visual for NWhite Systems](https://raw.githubusercontent.com/whitemorengwira/nwhitesystems/main/docs/assets/case-studies/nwhite-systems-hero.png)
 
 _Generated portfolio visual; not a confidential product screenshot._
@@ -20,7 +17,7 @@ My work sits between engineering, business operations, governance, and public-fa
 | 2 minutes | [Portfolio website](https://nwhite.systems) | Positioning, services, selected work, contact path |
 | 5 minutes | [GitHub showcase](https://github.com/whitemorengwira/nwhitesystems) | Case studies, proof sections, confidentiality boundaries, visual context |
 | 10 minutes | [Recruiter review guide](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/recruiter-review-guide.md) | Role-fit map, review checklist, strongest evidence by category |
-| Deep review | [SAFA ProMax source](https://github.com/whitemorengwira/safa-promax) | Next.js/TypeScript delivery, public build/audit workflow, curated source surface |
+| Deep review | [SAFA ProMax source](https://github.com/whitemorengwira/safa-promax) | Next.js/TypeScript delivery, local build/audit verification, curated source surface |
 
 ## Best Evidence By Role
 
