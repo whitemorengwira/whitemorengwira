@@ -17,6 +17,7 @@ My work sits between engineering, business operations, governance, and public-fa
 | 2 minutes | [Portfolio website](https://nwhite.systems) | Positioning, services, selected work, contact path |
 | 5 minutes | [GitHub showcase](https://github.com/whitemorengwira/nwhitesystems) | Case studies, proof sections, confidentiality boundaries, visual context |
 | 10 minutes | [Recruiter review guide](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/recruiter-review-guide.md) | Role-fit map, review checklist, strongest evidence by category |
+| Technical review | [Architecture notes](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/architecture-notes.md) | Delivery model, controlled disclosure, and system design judgment |
 | Deep review | [SAFA ProMax source](https://github.com/whitemorengwira/safa-promax) | Next.js/TypeScript delivery, local build/audit verification, curated source surface |
 
 ## Best Evidence By Role
