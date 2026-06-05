@@ -66,7 +66,7 @@ _Verified on June 5, 2026._
 
 - Six public showcase repositories are curated for recruiter review.
 - SAFA ProMax passed lint, typecheck, build, and production-dependency audit checks before this conversion layer.
-- GitHub Free hygiene is active: community files, copyright/usage boundaries, light branch protection, disabled noisy tabs, release tags, and public verification workflows.
+- GitHub Free hygiene is active: community files, copyright/usage boundaries, light branch protection, disabled noisy tabs, release tags, public verification workflows, Dependabot security updates, secret scanning, push protection, and private vulnerability reporting.
 - Public case studies clearly label generated visuals and avoid credentials, private dashboards, internal workflow notes, student records, investor records, and client-sensitive data.
 
 ## Contact
