@@ -6,24 +6,26 @@ I design and build full-stack digital platforms, AI-assisted workflows, analytic
 
 My work sits between engineering, business operations, governance, and public-facing digital experience. I work across React, Next.js, Node.js, TypeScript, JavaScript, Python, APIs, cloud platforms, automation, measurement, creative technology, and broadcast-ready content workflows.
 
-## Fast Review Path
+## Fast Review Options
 
 | Time | Start here | What to look for |
 |---|---|---|
 | 2 minutes | [Portfolio website](https://nwhite.systems) | Positioning, services, selected work, contact path |
 | 5 minutes | [GitHub showcase](https://github.com/whitemorengwira/nwhitesystems) | Case studies, proof sections, confidentiality boundaries, visual context |
-| 10 minutes | [Recruiter review guide](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/recruiter-review-guide.md) | Role-fit map, review checklist, strongest evidence by category |
-| Forward internally | [One-page recruiter PDF](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf) | Compact proof pack for hiring managers and technical reviewers |
+| 10 minutes | [Recruiter review guide](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/recruiter-review-guide.md) | Role-fit map, evidence checklist, strongest evidence by category |
+| Internal review | [One-page recruiter PDF](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf) | Compact proof pack for hiring managers and technical reviewers |
 | Technical review | [Architecture notes](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/architecture-notes.md) | Delivery model, controlled disclosure, and system design judgment |
 | Deep review | [SAFA ProMax source](https://github.com/whitemorengwira/safa-promax) | Next.js/TypeScript delivery, local build/audit verification, curated source surface |
 
-## Review In 90 Seconds
+## 90-Second Evidence Route
 
-1. Open [nwhite.systems](https://nwhite.systems).
-2. Watch the [portfolio review path walkthrough](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/assets/demo/portfolio-review-path.mp4).
-3. Inspect [SAFA ProMax](https://github.com/whitemorengwira/safa-promax) for public source proof.
-4. Forward the [one-page recruiter PDF](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf).
-5. [Request a walkthrough](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20request).
+| Hiring need | Public evidence |
+|---|---|
+| Fast orientation | [nwhite.systems](https://nwhite.systems) |
+| Guided overview | [Portfolio review path walkthrough](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/assets/demo/portfolio-review-path.mp4) |
+| Source-level proof | [SAFA ProMax](https://github.com/whitemorengwira/safa-promax) |
+| Internal hiring review | [One-page recruiter PDF](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf) |
+| Walkthrough request | [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20request) |
 
 <img src="https://raw.githubusercontent.com/whitemorengwira/nwhitesystems/main/docs/assets/case-studies/nwhite-systems-hero.png" alt="Generated portfolio visual for NWhite Systems" width="760">
 
