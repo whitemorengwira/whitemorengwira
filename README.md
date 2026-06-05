@@ -76,3 +76,7 @@ _Verified on June 4, 2026._
 ## Portfolio Note
 
 Some work is represented through sanitized case studies rather than full production source. That keeps credentials, client data, private workflows, and commercially sensitive material protected while still showing role, architecture, delivery, and judgment.
+
+## Usage Rights
+
+This profile repository is public for portfolio review only and is not open-source licensed. See [COPYRIGHT.md](COPYRIGHT.md) for usage boundaries.
