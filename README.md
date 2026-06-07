@@ -10,11 +10,14 @@ My work sits between engineering, business operations, governance, and public-fa
 
 Building recruiter-safe public proof of systems architecture, AI workflows, and production-minded digital platforms. Monthly public decisions and verification signals are tracked in the [systems architecture proof log](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/systems-architecture-proof-log.md).
 
+As of June 7, 2026, the public proof path is aligned to my current Socinga Africa role as Principal Systems Architect and Digital Infrastructure Lead, alongside my independent N.White Systems portfolio and practice.
+
 ## Fast Review Options
 
 | Time | Start here | What to look for |
 |---|---|---|
 | 2 minutes | [Portfolio website](https://nwhite.systems) | Positioning, services, selected work, contact path |
+| 3 minutes | [Current recruiter proof path](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/current-recruiter-proof-path.md) | Current role alignment, strongest evidence links, confidentiality boundary |
 | 5 minutes | [GitHub showcase](https://github.com/whitemorengwira/nwhitesystems) | Case studies, proof sections, confidentiality boundaries, visual context |
 | 10 minutes | [Recruiter review guide](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/recruiter-review-guide.md) | Role-fit map, evidence checklist, strongest evidence by category |
 | Internal review | [One-page recruiter PDF](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf) | Compact proof pack for hiring managers and technical reviewers |
@@ -68,10 +71,11 @@ _Generated public walkthrough media using public screenshots and portfolio visua
 
 ## Public Verification Signals
 
-_Verified on June 5, 2026._
+_Verified on June 7, 2026._
 
 - Six public showcase repositories are curated for recruiter review.
 - Social preview images are uploaded across all six showcase repositories, and profile pins are ordered for a clear review path.
+- Current profile language is aligned to the verified Socinga Africa title: Principal Systems Architect and Digital Infrastructure Lead.
 - SAFA ProMax passed lint, typecheck, build, and production-dependency audit checks before this conversion layer.
 - GitHub Free hygiene is active: community files, copyright/usage boundaries, light branch protection, disabled noisy tabs, release tags, public verification workflows, Dependabot security updates, secret scanning, push protection, and private vulnerability reporting.
 - Public case studies clearly label generated visuals and avoid credentials, private dashboards, internal workflow notes, student records, investor records, and client-sensitive data.
