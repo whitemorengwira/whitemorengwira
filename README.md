@@ -21,7 +21,7 @@ As of June 7, 2026, the public proof path is aligned to my current Socinga Afric
 | 5 minutes | [GitHub showcase](https://github.com/whitemorengwira/nwhitesystems) | Case studies, proof sections, confidentiality boundaries, visual context |
 | 10 minutes | [Recruiter review guide](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/recruiter-review-guide.md) | Role-fit map, evidence checklist, strongest evidence by category |
 | Internal review | [One-page recruiter PDF](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf) | Compact proof pack for hiring managers and technical reviewers |
-| Technical review | [Architecture notes](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/architecture-notes.md) | Delivery model, controlled disclosure, and system design judgment |
+| Technical review | [Architecture notes](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/architecture-notes.md) | Delivery model, controlled disclosure, and system design judgement |
 | Monthly proof | [Systems architecture proof log](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/systems-architecture-proof-log.md) | Date-stamped decisions, tradeoffs, verification, and public links |
 | Deep review | [SAFA ProMax source](https://github.com/whitemorengwira/safa-promax) | Next.js/TypeScript delivery, local build/audit verification, curated source surface |
 
@@ -89,7 +89,7 @@ _Verified on June 7, 2026._
 
 ## Portfolio Note
 
-Some work is represented through sanitized case studies rather than full production source. That keeps credentials, client data, private workflows, and commercially sensitive material protected while still showing role, architecture, delivery, and judgment.
+Some work is represented through sanitised case studies rather than full production source. That keeps credentials, client data, private workflows, and commercially sensitive material protected while still showing role, architecture, delivery, and judgement.
 
 ## Usage Rights
 
