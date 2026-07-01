@@ -12,6 +12,20 @@ Building recruiter-safe public proof of systems architecture, AI workflows, and 
 
 As of June 7, 2026, the public proof path is aligned to my current Socinga Africa role as Principal Systems Architect and Digital Infrastructure Lead, alongside my independent N.White Systems portfolio and practice.
 
+<!-- nwhite-good-trend-2026-07:start -->
+## N.White Systems: Systems That Compound
+
+N.White Systems is my independent practice for digital systems that become more useful as the business learns: websites, SEO, AI workflows, analytics, SaaS platforms, and measurable operating infrastructure.
+
+Current proof paths:
+
+- [N.White Systems website](https://nwhite.systems/?utm_source=github&utm_medium=profile&utm_campaign=nwhite_good_trend_2026_07&utm_content=systems_that_compound_profile)
+- [Services index](https://nwhite.systems/services?utm_source=github&utm_medium=profile&utm_campaign=nwhite_good_trend_2026_07&utm_content=technical_services_index)
+- [AI workflow automation](https://nwhite.systems/ai-automation?utm_source=github&utm_medium=profile&utm_campaign=nwhite_good_trend_2026_07&utm_content=human_reviewed_ai_workflows)
+- [About Whitemore Ngwira](https://nwhite.systems/about-me?utm_source=github&utm_medium=profile&utm_campaign=nwhite_good_trend_2026_07&utm_content=one_architect_full_accountability)
+
+<!-- nwhite-good-trend-2026-07:end -->
+
 ## Fast Review Options
 
 | Time | Start here | What to look for |
