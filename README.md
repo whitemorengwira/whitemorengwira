@@ -1,110 +1,56 @@
 # Whitemore Ngwira
 
-**Systems Architect | Full-Stack & AI Workflow Architect | Creative Technologist**
+**Systems Architect | AI Workflow Architect | Creative Technologist**
 
-I design and build full-stack digital platforms, AI-assisted workflows, analytics and reporting systems, cloud deployment flows, and multimedia content systems for regulated and high-performance environments.
+I design and build digital platforms, AI-assisted workflows, SaaS products, analytics and reporting systems, cloud deployment flows, websites and multimedia content systems. My work connects engineering, business operations, governance and public-facing digital experience.
 
-My work sits between engineering, business operations, governance, and public-facing digital experience. I work across React, Next.js, Node.js, TypeScript, JavaScript, Python, APIs, cloud platforms, automation, measurement, creative technology, and broadcast-ready content workflows.
+## Start Here
 
-## Current Focus
+| Review path | Link |
+| --- | --- |
+| N.White Systems portfolio | [nwhite.systems](https://nwhite.systems/) |
+| Guided portfolio review | [nwhite.systems/portfolio-review](https://nwhite.systems/portfolio-review) |
+| Selected work | [nwhite.systems/my-portfolio](https://nwhite.systems/my-portfolio) |
+| Services | [nwhite.systems/services](https://nwhite.systems/services) |
+| About me | [nwhite.systems/about-me](https://nwhite.systems/about-me) |
+| Public GitHub portfolio index | [github.com/whitemorengwira/nwhitesystems](https://github.com/whitemorengwira/nwhitesystems) |
 
-Building recruiter-safe public proof of systems architecture, AI workflows, and production-minded digital platforms. Monthly public decisions and verification signals are tracked in the [systems architecture proof log](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/systems-architecture-proof-log.md).
+## Selected Public Case Studies
 
-As of June 7, 2026, the public proof path is aligned to my current Socinga Africa role as Principal Systems Architect and Digital Infrastructure Lead, alongside my independent N.White Systems portfolio and practice.
+These repositories are deliberately sanitised portfolio summaries. They are not production source repositories.
 
-<!-- nwhite-good-trend-2026-07:start -->
-## N.White Systems: Systems That Compound
-
-N.White Systems is my independent practice for digital systems that become more useful as the business learns: websites, SEO, AI workflows, analytics, SaaS platforms, and measurable operating infrastructure.
-
-Current proof paths:
-
-- [N.White Systems website](https://nwhite.systems/?utm_source=github&utm_medium=profile&utm_campaign=nwhite_good_trend_2026_07&utm_content=systems_that_compound_profile)
-- [Services index](https://nwhite.systems/services?utm_source=github&utm_medium=profile&utm_campaign=nwhite_good_trend_2026_07&utm_content=technical_services_index)
-- [AI workflow automation](https://nwhite.systems/ai-automation?utm_source=github&utm_medium=profile&utm_campaign=nwhite_good_trend_2026_07&utm_content=human_reviewed_ai_workflows)
-- [About Whitemore Ngwira](https://nwhite.systems/about-me?utm_source=github&utm_medium=profile&utm_campaign=nwhite_good_trend_2026_07&utm_content=one_architect_full_accountability)
-
-<!-- nwhite-good-trend-2026-07:end -->
-
-## Fast Review Options
-
-| Time | Start here | What to look for |
-|---|---|---|
-| 2 minutes | [Portfolio website](https://nwhite.systems) | Positioning, services, selected work, contact path |
-| 3 minutes | [Current recruiter proof path](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/current-recruiter-proof-path.md) | Current role alignment, strongest evidence links, confidentiality boundary |
-| 5 minutes | [GitHub showcase](https://github.com/whitemorengwira/nwhitesystems) | Case studies, proof sections, confidentiality boundaries, visual context |
-| 10 minutes | [Recruiter review guide](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/recruiter-review-guide.md) | Role-fit map, evidence checklist, strongest evidence by category |
-| Internal review | [One-page recruiter PDF](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf) | Compact proof pack for hiring managers and technical reviewers |
-| Technical review | [Architecture notes](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/architecture-notes.md) | Delivery model, controlled disclosure, and system design judgement |
-| Monthly proof | [Systems architecture proof log](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/systems-architecture-proof-log.md) | Date-stamped decisions, tradeoffs, verification, and public links |
-| Deep review | [SAFA ProMax source](https://github.com/whitemorengwira/safa-promax) | Next.js/TypeScript delivery, local build/audit verification, curated source surface |
-
-## 90-Second Evidence Route
-
-| Hiring need | Public evidence |
-|---|---|
-| Fast orientation | [nwhite.systems](https://nwhite.systems) |
-| Guided overview | [Portfolio review path walkthrough](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/assets/demo/portfolio-review-path.mp4) |
-| Source-level proof | [SAFA ProMax](https://github.com/whitemorengwira/safa-promax) |
-| Architecture proof | [Systems architecture proof log](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/systems-architecture-proof-log.md) |
-| Internal hiring review | [One-page recruiter PDF](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf) |
-| Walkthrough request | [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20request) |
-
-<img src="https://raw.githubusercontent.com/whitemorengwira/nwhitesystems/main/docs/assets/case-studies/nwhite-systems-hero.png" alt="Generated portfolio visual for NWhite Systems" width="760">
-
-_Generated portfolio visual; not a confidential product screenshot._
-
-## Demo Walkthroughs
-
-_Generated public walkthrough media using public screenshots and portfolio visuals only._
-
-| Walkthrough | Best use |
-|---|---|
-| [Portfolio review path](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/assets/demo/portfolio-review-path.mp4) | Fast route through portfolio, GitHub proof, and confidentiality boundary |
-| [SAFA ProMax source review](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/assets/demo/safa-promax-demo.mp4) | Full-stack/source-level evidence |
-| [EarCodeX workflow review](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/assets/demo/earcodex-demo.mp4) | Regulated workflow and SaaS product architecture |
-
-## Best Evidence By Role
-
-| Role signal | Public evidence |
-|---|---|
-| Systems architecture | [NWhite Systems portfolio showcase](https://github.com/whitemorengwira/nwhitesystems) |
-| Full-stack platform delivery | [SAFA ProMax public source and live platform](https://github.com/whitemorengwira/safa-promax) |
-| Regulated workflow/product thinking | [EarCodeX SaaS prototype case study](https://github.com/whitemorengwira/earcodex-case-study) |
-| Enterprise stakeholder communication | [Socinga Africa enterprise website case study](https://github.com/whitemorengwira/socinga-africa-enterprise-case-study) |
-| Confidential dashboard and dossier thinking | [SAM Dossier case study](https://github.com/whitemorengwira/sam-dossier-case-study) |
+| Project | Public evidence | What it demonstrates |
+| --- | --- | --- |
+| SAFA ProMax | [Sanitised case study](https://github.com/whitemorengwira/nwhitesystems/blob/main/case-studies/safa-promax.md) · [Live artefact](https://safa-promax.vercel.app/) | Full-stack platform delivery, stakeholder experience and creative technology. |
+| EarCodeX | [Sanitised case study](https://github.com/whitemorengwira/earcodex-case-study) · [Live artefact](https://earcodex.vercel.app/) | SaaS product thinking, reconciliation and audit-aware workflows. |
+| Socinga Africa | [Sanitised case study](https://github.com/whitemorengwira/socinga-africa-enterprise-case-study) · [Live artefact](https://www.socinga.africa/) | Enterprise information architecture and regulated-sector communication. |
+| SAM Dossier | [Sanitised case study](https://github.com/whitemorengwira/sam-dossier-case-study) · [Live artefact](https://sam-dossier.vercel.app/) | Controlled-access product thinking, dashboards and document workflows. |
 
 ## Focus Areas
 
-- Full-stack systems and digital platforms
-- AI-assisted workflow architecture
-- Analytics and reporting architecture
-- Cloud infrastructure and deployment workflows
-- Creative technology and multimedia systems
-- Governance, documentation, and regulated-sector delivery
+- Systems architecture and digital-platform design.
+- Full-stack web and SaaS delivery.
+- AI workflow architecture and automation.
+- Analytics, reporting and operational visibility.
+- API-led integration and cloud-first deployment.
+- Creative technology and multimedia systems.
+- Governance-conscious delivery for regulated or sensitive environments.
 
-## Public Verification Signals
+## Public and Private Boundary
 
-_Verified on June 7, 2026._
+My public GitHub profile shows approved case studies, high-level architecture, live public artefacts and non-sensitive delivery evidence.
 
-- Six public showcase repositories are curated for recruiter review.
-- Social preview images are uploaded across all six showcase repositories, and profile pins are ordered for a clear review path.
-- Current profile language is aligned to the verified Socinga Africa title: Principal Systems Architect and Digital Infrastructure Lead.
-- SAFA ProMax passed lint, typecheck, build, and production-dependency audit checks before this conversion layer.
-- GitHub Free hygiene is active: community files, copyright/usage boundaries, light branch protection, disabled noisy tabs, release tags, public verification workflows, Dependabot security updates, secret scanning, push protection, and private vulnerability reporting.
-- Public case studies clearly label generated visuals and avoid credentials, private dashboards, internal workflow notes, student records, investor records, and client-sensitive data.
+Production source code, database migrations, environment templates, credentials, authentication logic, deployment configuration, internal agent notes, stakeholder records, client information and commercially sensitive workflows remain private by default.
+
+Where permission allows, deeper technical evidence can be provided through a controlled walkthrough, private repository access or an agreed confidentiality arrangement.
+
+Read the portfolio [Public Disclosure Policy](https://github.com/whitemorengwira/nwhitesystems/blob/main/PUBLIC_DISCLOSURE_POLICY.md).
 
 ## Contact
 
-- Portfolio: https://nwhite.systems
-- GitHub showcase: https://github.com/whitemorengwira/nwhitesystems
-- Recruiter PDF: https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf
-- Professional contact: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20request)
-
-## Portfolio Note
-
-Some work is represented through sanitised case studies rather than full production source. That keeps credentials, client data, private workflows, and commercially sensitive material protected while still showing role, architecture, delivery, and judgement.
+- Portfolio: [https://nwhite.systems](https://nwhite.systems/)
+- Email: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20request)
 
 ## Usage Rights
 
-This profile repository is public for portfolio review only and is not open-source licensed. See [COPYRIGHT.md](COPYRIGHT.md) for usage boundaries.
+This profile and its linked case studies are published for portfolio review only. They are not open-source licences or permission to reuse proprietary work.
