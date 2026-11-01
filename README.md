@@ -59,7 +59,9 @@ These title cards are portfolio illustrations, not product screenshots.
 - **N.White Systems:** AI receptionist and portfolio guidance, connecting conversational interaction with relevant site information.
 - **ApplyWise AI:** career-workflow engineering, bringing role analysis, evidence-grounded assistance and draft review into an application experience.
 - **[EarCodeX](https://github.com/whitemorengwira/earcodex-case-study):** a public architecture case study covering AI-enabled insurance document and claims workflows.
-- **[Sweet Robo Photo Booth](https://github.com/whitemorengwira/sweet-robo-photo-booth):** software engineering within an AI-enabled photo product. My contribution centres on Android, payment-related implementation, debugging and diagnostics.
+- **[Sweet Robo / Futureino AI Photo Booth app](https://github.com/whitemorengwira/sweet-robo-photo-booth):** AI-powered application engineering, including Android development, payment-related changes, debugging and diagnostics.
+- **[AI-powered management platform](https://github.com/whitemorengwira/sweet-robo-control-centre-engineering):** AI solution contributions alongside backend and portal workflows, APIs and automated validation for connected machines.
+- **[Remote diagnostics and camera-AI workflows](https://github.com/whitemorengwira/sweet-robo-control-centre-engineering#ai-powered-solutions):** AI solution work supporting connected-machine operations, described at a public portfolio level.
 
 **My focus:** useful workflows, reliable integration, understandable results and human review. Each linked case study identifies its scope; a product's AI features do not imply that I authored its underlying AI models.
 
@@ -67,7 +69,7 @@ These title cards are portfolio illustrations, not product screenshots.
 
 ## Sweet Robo · Connected-machine engineering
 
-My work at **Sweet Robo** spans Android kiosk software, hardware–software debugging, integration analysis, backend workflows and automated quality checks. These case studies explain my contributions within existing team-owned products, illustrated with official public product imagery.
+I provide **AI-powered software solutions for Sweet Robo / Futureino**, including contributions to the **AI Photo Booth app**, the **AI-powered management platform**, and **remote diagnostics and camera-AI workflows**. My work also spans Android kiosks, hardware–software debugging, integration analysis, backend workflows and automated quality checks. These case studies explain my contributions within existing team-owned products, illustrated with official public product imagery.
 
 **Official websites:** [Sweet Robo](https://sweetrobo.com/) · [Futureino](https://futureino.ai/)
 
@@ -75,12 +77,12 @@ My work at **Sweet Robo** spans Android kiosk software, hardware–software debu
 | :--- | :--- |
 | [**Perfume Machine**](https://github.com/whitemorengwira/sweet-robo-perfume-machine) | Android engineering for self-service fragrance kiosks |
 | [**Vending Machine**](https://github.com/whitemorengwira/sweet-robo-vending-machine) | Hardware–software integration analysis for automated retail |
-| [**Photo Booth**](https://github.com/whitemorengwira/sweet-robo-photo-booth) | Android debugging, payment integration and diagnostic engineering |
-| [**Control Centre Engineering**](https://github.com/whitemorengwira/sweet-robo-control-centre-engineering) | Backend systems, APIs and quality assurance for connected machines |
+| [**AI Photo Booth App**](https://github.com/whitemorengwira/sweet-robo-photo-booth) | AI-powered application engineering, Android development, debugging and diagnostics |
+| [**Control Centre Engineering**](https://github.com/whitemorengwira/sweet-robo-control-centre-engineering) | AI-powered management, remote diagnostics and camera-AI workflows, backend systems and APIs |
 
 <table>
 <tr><td align="center" width="50%"><a href="https://github.com/whitemorengwira/sweet-robo-perfume-machine"><img src="https://raw.githubusercontent.com/whitemorengwira/sweet-robo-perfume-machine/main/assets/perfume-official.webp" alt="Perfume Machine — official public imagery" height="220"><br><strong>Perfume Machine</strong></a></td><td align="center" width="50%"><a href="https://github.com/whitemorengwira/sweet-robo-vending-machine"><img src="https://raw.githubusercontent.com/whitemorengwira/sweet-robo-vending-machine/main/assets/vending-official.webp" alt="Vending Machine — official public imagery" height="220"><br><strong>Vending Machine</strong></a></td></tr>
-<tr><td align="center" width="50%"><a href="https://github.com/whitemorengwira/sweet-robo-photo-booth"><img src="https://raw.githubusercontent.com/whitemorengwira/sweet-robo-photo-booth/main/assets/photo-booth-official.webp" alt="Photo Booth — official public imagery" height="220"><br><strong>Photo Booth</strong></a></td><td align="center" width="50%"><a href="https://github.com/whitemorengwira/sweet-robo-control-centre-engineering"><img src="https://raw.githubusercontent.com/whitemorengwira/sweet-robo-control-centre-engineering/main/assets/control-centre-official.webp" alt="Control Centre Engineering — official public imagery" height="220"><br><strong>Control Centre Engineering</strong></a></td></tr>
+<tr><td align="center" width="50%"><a href="https://github.com/whitemorengwira/sweet-robo-photo-booth"><img src="https://raw.githubusercontent.com/whitemorengwira/sweet-robo-photo-booth/main/assets/photo-booth-official.webp" alt="AI Photo Booth App — official public product imagery" height="220"><br><strong>AI Photo Booth App</strong></a></td><td align="center" width="50%"><a href="https://github.com/whitemorengwira/sweet-robo-control-centre-engineering"><img src="https://raw.githubusercontent.com/whitemorengwira/sweet-robo-control-centre-engineering/main/assets/control-centre-official.webp" alt="Control Centre Engineering — official public imagery" height="220"><br><strong>Control Centre Engineering</strong></a></td></tr>
 </table>
 
 *Product visuals: Futureino. Management-platform visual: Sweet Robo. Each case study links to its official sources and distinguishes published product information from my engineering contributions. Proprietary code and non-public system details remain private.*
