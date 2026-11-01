@@ -26,24 +26,23 @@ I operate an independent systems architecture practice delivering across four in
 
 ## Sweet Robo · Connected-machine engineering
 
-Alongside my independent practice, my work at **Sweet Robo** includes Android kiosk software, debugging, integration analysis, backend workflows and automated quality checks. These four documentation-only showcases explain my contributions within existing team-owned products.
+My work at **Sweet Robo** spans Android kiosk software, hardware–software debugging, integration analysis, backend workflows and automated quality checks. These case studies explain my contributions within existing team-owned products, illustrated with official public product imagery.
 
-| Showcase | My contribution | Explore |
-| :--- | :--- | :--- |
-| **Perfume Machine** | Android engineering & kiosk experience | [View case study](https://github.com/whitemorengwira/sweet-robo-perfume-machine) |
-| **Vending Machine** | Integration analysis & engineering readiness | [View case study](https://github.com/whitemorengwira/sweet-robo-vending-machine) |
-| **Photo Booth** | Android diagnostics & test engineering | [View case study](https://github.com/whitemorengwira/sweet-robo-photo-booth) |
-| **Control Centre Engineering** | Backend systems, APIs & quality assurance | [View case study](https://github.com/whitemorengwira/sweet-robo-control-centre-engineering) |
+**Official websites:** [Sweet Robo](https://sweetrobo.com/) · [Futureino](https://futureino.ai/)
 
-[![Perfume Machine — original concept illustration](https://raw.githubusercontent.com/whitemorengwira/sweet-robo-perfume-machine/main/assets/hero.png)](https://github.com/whitemorengwira/sweet-robo-perfume-machine)
+| Showcase | My engineering contribution |
+| :--- | :--- |
+| [**Perfume Machine**](https://github.com/whitemorengwira/sweet-robo-perfume-machine) | Android engineering for self-service fragrance kiosks |
+| [**Vending Machine**](https://github.com/whitemorengwira/sweet-robo-vending-machine) | Hardware–software integration analysis for automated retail |
+| [**Photo Booth**](https://github.com/whitemorengwira/sweet-robo-photo-booth) | Android debugging, payment integration and diagnostic engineering |
+| [**Control Centre Engineering**](https://github.com/whitemorengwira/sweet-robo-control-centre-engineering) | Backend systems, APIs and quality assurance for connected machines |
 
-[![Vending Machine — original concept illustration](https://raw.githubusercontent.com/whitemorengwira/sweet-robo-vending-machine/main/assets/hero.png)](https://github.com/whitemorengwira/sweet-robo-vending-machine)
+<table>
+<tr><td align="center" width="50%"><a href="https://github.com/whitemorengwira/sweet-robo-perfume-machine"><img src="https://raw.githubusercontent.com/whitemorengwira/sweet-robo-perfume-machine/main/assets/perfume-official.webp" alt="Perfume Machine — official public imagery" height="220"><br><strong>Perfume Machine</strong></a></td><td align="center" width="50%"><a href="https://github.com/whitemorengwira/sweet-robo-vending-machine"><img src="https://raw.githubusercontent.com/whitemorengwira/sweet-robo-vending-machine/main/assets/vending-official.webp" alt="Vending Machine — official public imagery" height="220"><br><strong>Vending Machine</strong></a></td></tr>
+<tr><td align="center" width="50%"><a href="https://github.com/whitemorengwira/sweet-robo-photo-booth"><img src="https://raw.githubusercontent.com/whitemorengwira/sweet-robo-photo-booth/main/assets/photo-booth-official.webp" alt="Photo Booth — official public imagery" height="220"><br><strong>Photo Booth</strong></a></td><td align="center" width="50%"><a href="https://github.com/whitemorengwira/sweet-robo-control-centre-engineering"><img src="https://raw.githubusercontent.com/whitemorengwira/sweet-robo-control-centre-engineering/main/assets/control-centre-official.webp" alt="Control Centre Engineering — official public imagery" height="220"><br><strong>Control Centre Engineering</strong></a></td></tr>
+</table>
 
-[![Photo Booth — original concept illustration](https://raw.githubusercontent.com/whitemorengwira/sweet-robo-photo-booth/main/assets/hero.png)](https://github.com/whitemorengwira/sweet-robo-photo-booth)
-
-[![Control Centre Engineering — original concept illustration](https://raw.githubusercontent.com/whitemorengwira/sweet-robo-control-centre-engineering/main/assets/hero.png)](https://github.com/whitemorengwira/sweet-robo-control-centre-engineering)
-
-*All artwork is conceptual and AI-generated. These summaries contain no private product code, internal screenshots or operational data; they do not claim sole product authorship or production acceptance.*
+*Product visuals: Futureino. Management-platform visual: Sweet Robo. Each case study links to its official sources and distinguishes published product information from my engineering contributions. Proprietary code and non-public system details remain private.*
 
 ---
 
