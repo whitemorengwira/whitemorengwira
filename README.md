@@ -1,26 +1,67 @@
+![Whitemore Ngwira — N.White Systems engineering portfolio](assets/profile-brand.svg)
+
 # Whitemore Ngwira
 
 ### Principal Technology Architect & AI Systems Engineer
 
-> *"I architect and engineer the systems that scale."*  
-> *"I design the systems behind the systems — including the systems that produce, process, and deliver digital content."*
+*I design the systems behind the systems — including the systems that produce, process and deliver digital content.*
 
-[![Platform](https://img.shields.io/badge/Platform-nwhite.systems-0A1128?style=for-the-badge&logo=googlechrome&logoColor=D4AF37)](https://nwhite.systems/)
-[![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-AWS%20(Lead)%20%7C%20Azure%20%7C%20GCP-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://nwhite.systems/services/architecture-technical-leadership/secure-cloud-platform-architecture)
-[![Infrastructure as Code](https://img.shields.io/badge/IaC-Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://nwhite.systems/services/architecture-technical-leadership)
-[![AI Systems](https://img.shields.io/badge/AI%20Systems-Workflow%20Automation%20%26%20Agents-0A1128?style=for-the-badge&logo=openai&logoColor=D4AF37)](https://nwhite.systems/services/ai-automation-agent-workflows)
-[![Multimedia Systems](https://img.shields.io/badge/Multimedia-21%20Broadcast%20Productions-D4AF37?style=for-the-badge&logo=youtube&logoColor=0A1128)](https://nwhite.systems/my-portfolio/multimedia)
+I work across **software engineering, AI-powered applications, cloud architecture and creative technology**. My experience connects hands-on Android and backend engineering with web platforms, AI-assisted development and the production workflows behind broadcast and digital media.
+
+[Website](https://nwhite.systems/) · [About me](https://nwhite.systems/about-me) · [Portfolio index](https://github.com/whitemorengwira/nwhitesystems) · [Contact](mailto:hello@nwhite.systems)
+
+**Explore:** [AI-assisted engineering](#software-engineering-with-claude-code--codex) · [AI applications](#ai-powered-applications) · [Sweet Robo](#sweet-robo--connected-machine-engineering) · [Enterprise platforms](#enterprise--digital-platforms) · [Broadcast & creative technology](#broadcast-film--creative-technology)
 
 ---
 
-## 🏛️ Practice Overview
+## Software engineering with Claude Code & Codex
 
-I operate an independent systems architecture practice delivering across four interconnected technical disciplines:
+I use **Claude Code** and **OpenAI Codex** as practical engineering tools across software development, debugging and delivery. I direct the work: defining the problem, deciding what should change, reviewing the implementation and checking the evidence.
 
-1. **Cloud Architecture & Infrastructure Engineering**: AWS-lead cloud platform design, multi-cloud strategy (AWS, Azure, GCP), Terraform Infrastructure as Code (IaC), least-privilege IAM, customer-managed KMS encryption, and multi-tier storage lifecycle policies.
-2. **AI Workflow Automation & Intelligent Systems**: Governed agent workflows, automated document/data pipelines, model context protocols (MCP), and human-in-the-loop operational guardrails.
-3. **Enterprise Digital Platforms & Regulated SaaS**: Mission-critical platforms across financial services, heavy industry, mining operations, and healthcare (e.g., Socinga Mining Hub, EarCodeX).
-4. **High-Throughput Multimedia & Broadcast Systems**: Engineering the pipelines behind 21 broadcast and streaming productions across pan-African networks (DStv, BET Africa / Paramount, Showmax, OVHD), enforcing EBU R128 loudness, AS-11 packaging, and automated digital intermediate finishing.
+This includes work on **Android kiosk applications, backend services, APIs, web platforms and AI-powered applications**. My approach connects agent-assisted implementation with tests, careful review and clear handovers.
+
+![How I direct Claude Code and Codex through software engineering](assets/ai-engineering-workflow.svg)
+
+| Part of the work | How I use the tools | My responsibility |
+| --- | --- | --- |
+| Understand & scope | Explore code, trace behaviour and identify affected components | Set the problem, boundaries and acceptance criteria |
+| Design & build | Develop focused changes, compare options and refine implementation | Choose the approach and review the resulting code |
+| Debug & investigate | Reproduce faults, inspect diagnostic evidence and test explanations | Distinguish observed behaviour from assumptions |
+| Test & validate | Prepare and run appropriate regression checks, builds and CI checks | Assess what the results prove and what remains unverified |
+| Review & improve | Challenge changes, examine edge cases and resolve findings | Decide whether the change is ready for review or handover |
+| Document & hand over | Prepare technical explanations, change summaries and continuation notes | Keep the record accurate, useful and confidential |
+
+**Examples from my recent engineering work:** Android resource and interface changes; diagnostic and test-APK work for connected machines; backend and API workflow improvements; automated quality checks; and conversational web experiences. I use agent workflows to maintain context across these tasks while keeping decisions and verification under human direction.
+
+The diagram is an overview of my working method. It contains no internal instructions, private architecture or proprietary code.
+
+---
+
+## AI-powered applications
+
+Alongside using AI to engineer software, I build and shape applications that put AI into user workflows: conversational assistance, evidence retrieval, document intelligence and guided task completion.
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://nwhite.systems/"><img src="https://raw.githubusercontent.com/whitemorengwira/whitemorengwira/main/assets/ai-receptionist-brand.svg" alt="N.White Systems AI Receptionist — illustrative portfolio title artwork" width="320" height="88"><br><strong>N.White Systems · AI Receptionist</strong></a><br>
+<sub>A conversational portfolio experience with retrieval from site information and fallback handling.</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/whitemorengwira/nwhitesystems/blob/main/case-studies/applywise-ai.md"><img src="https://raw.githubusercontent.com/whitemorengwira/nwhitesystems/main/docs/assets/case-studies/applywise-brand.svg" alt="ApplyWise AI — illustrative portfolio title artwork" width="320" height="88"><br><strong>ApplyWise AI · Career Workflows</strong></a><br>
+<sub>AI-assisted job analysis, career evidence, application preparation and interview workflows.</sub>
+</td>
+</tr>
+</table>
+
+These title cards are portfolio illustrations, not product screenshots.
+
+- **N.White Systems:** AI receptionist and portfolio guidance, connecting conversational interaction with relevant site information.
+- **ApplyWise AI:** career-workflow engineering, bringing role analysis, evidence-grounded assistance and draft review into an application experience.
+- **[EarCodeX](https://github.com/whitemorengwira/earcodex-case-study):** a public architecture case study covering AI-enabled insurance document and claims workflows.
+- **[Sweet Robo Photo Booth](https://github.com/whitemorengwira/sweet-robo-photo-booth):** software engineering within an AI-enabled photo product. My contribution centres on Android, payment-related implementation, debugging and diagnostics.
+
+**My focus:** useful workflows, reliable integration, understandable results and human review. Each linked case study identifies its scope; a product's AI features do not imply that I authored its underlying AI models.
 
 ---
 
@@ -44,95 +85,182 @@ My work at **Sweet Robo** spans Android kiosk software, hardware–software debu
 
 *Product visuals: Futureino. Management-platform visual: Sweet Robo. Each case study links to its official sources and distinguishes published product information from my engineering contributions. Proprietary code and non-public system details remain private.*
 
----
+## Enterprise & digital platforms
 
-## 🌐 Quick Links & Navigation
+These case studies explain my role, the product or business problem, and the public evidence available for review.
 
-| Destination | Scope | URL |
-| :--- | :--- | :--- |
-| **N.White Systems Platform** | Flagship architecture practice, services, and live systems | [nwhite.systems](https://nwhite.systems/) |
-| **About Whitemore Ngwira** | Executive biography, core principles, and architectural positioning | [nwhite.systems/about-me](https://nwhite.systems/about-me) |
-| **Multimedia Portfolio** | 21 broadcast productions with interactive architecture repo access | [nwhite.systems/my-portfolio/multimedia](https://nwhite.systems/my-portfolio/multimedia) |
-| **Services & Architecture** | Cloud architecture, AI automation, DevSecOps, and delivery assurance | [nwhite.systems/services](https://nwhite.systems/services) |
-| **Socinga Mining Hub** | Dedicated mining operations, industrial workflows, and mineral logistics | [socinga.africa/mining-hub](https://www.socinga.africa/mining-hub) |
-| **Socinga Africa Group** | Flagship enterprise financial services & resource sector platform | [socinga.africa](https://www.socinga.africa/) |
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/whitemorengwira/socinga-africa-enterprise-case-study"><img src="https://raw.githubusercontent.com/whitemorengwira/socinga-africa-enterprise-case-study/main/assets/hero.png" alt="Generated portfolio visual for Socinga Africa Enterprise" width="284" height="160"><br><strong>Socinga Africa</strong></a><br>
+<sub>Multi-division enterprise website and stakeholder information architecture.</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/whitemorengwira/earcodex-case-study"><img src="https://raw.githubusercontent.com/whitemorengwira/earcodex-case-study/main/assets/hero.png" alt="Generated portfolio visual for EarCodeX" width="284" height="160"><br><strong>EarCodeX</strong></a><br>
+<sub>Insurance architecture, AI document workflows and reconciliation case study.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/whitemorengwira/sam-dossier-case-study"><img src="https://raw.githubusercontent.com/whitemorengwira/sam-dossier-case-study/main/assets/hero.png" alt="Generated portfolio visual for SAM Dossier" width="284" height="160"><br><strong>SAM Dossier</strong></a><br>
+<sub>Mining-investment dossier concept, dashboards and document-workflow design.</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/whitemorengwira/nwhitesystems/blob/main/case-studies/safa-promax.md"><img src="https://raw.githubusercontent.com/whitemorengwira/nwhitesystems/main/docs/assets/case-studies/safa-promax-hero.svg" alt="SAFA ProMax public case-study visual" width="320" height="88"><br><strong>SAFA ProMax</strong></a><br>
+<sub>Board-facing creative technology, structured content and stakeholder experience.</sub>
+</td>
+</tr>
+</table>
 
----
+*Gallery images are generated portfolio visuals. Public screenshots, where available, are separately labelled inside the case studies.*
 
-## 🏢 Selected Enterprise & SaaS Platforms
-
-These repositories and links represent sanitised architectural case studies and live platforms:
-
-| Platform | Live Artefact / Production | Architecture Evidence | Scope & Technical Demonstration |
-| :--- | :--- | :--- | :--- |
-| **Socinga Mining Hub** | [socinga.africa/mining-hub](https://www.socinga.africa/mining-hub) | [Sanitised Enterprise Study](https://github.com/whitemorengwira/socinga-africa-enterprise-case-study) | **Mining Operations Platform**: Dedicated digital property for Socinga Africa's mining division. Heavy industrial digital systems, mineral supply chain traceability, investor relations, regulatory compliance reporting, Next.js, and Cloudflare Pages edge delivery. |
-| **Socinga Africa** | [socinga.africa](https://www.socinga.africa/) | [Sanitised Enterprise Study](https://github.com/whitemorengwira/socinga-africa-enterprise-case-study) | **Enterprise Platform**: Diversified financial services group spanning mining, insurance, and capital markets. Multi-tenant CMS namespace, authority visual systems, and corporate compliance architecture. |
-| **EarCodeX** | [earcodex.vercel.app](https://earcodex.vercel.app/) | [`earcodex-case-study`](https://github.com/whitemorengwira/earcodex-case-study) | **Enterprise Reconciliation SaaS**: Audit-aware matching engine, automated invoice-to-ledger reconciliation, cryptographic transaction verification, and AWS Terraform IaC. |
-| **SAFA ProMax** | [safa-promax.vercel.app](https://safa-promax.vercel.app/) | [Sanitised Case Study](https://github.com/whitemorengwira/nwhitesystems/blob/main/case-studies/safa-promax.md) | **Federated Sports Administration Platform**: High-scale athlete credentialing, multi-stakeholder governance, real-time analytics, and creative technology delivery. |
-| **SAM Dossier** | [sam-dossier.vercel.app](https://sam-dossier.vercel.app/) | [`sam-dossier-case-study`](https://github.com/whitemorengwira/sam-dossier-case-study) | **Controlled-Access Intelligence Dossier**: Executive intelligence dashboards, document encryption pipelines, and tamper-evident audit trails. |
-
----
-
-## 🎬 Broadcast, Film & Multimedia Production Systems
-
-Each production below is backed by a dedicated, public GitHub reference architecture repository containing **AWS Terraform IaC (`main.tf`, `variables.tf`, `outputs.tf`)**, **system architecture diagrams (`architecture.svg`)**, **production workflow diagrams (`workflow.svg`)**, and deep-dive technical documentation (cloud storage tiers, KMS encryption, event automation, AS-11 / EBU R128 QC specifications).
-
-> **Interactive Access**: You can also inspect and launch these directly from each card on [nwhite.systems/my-portfolio/multimedia](https://nwhite.systems/my-portfolio/multimedia).
-
-| # | Production | Network / Client | Technical & Creative Discipline | Public GitHub Architecture Repository | Broadcast Showcase |
-| :-: | :--- | :--- | :--- | :--- | :--- |
-| **01** | **Our Perfect Wedding** | DStv · Mzansi Magic Ch 161 (Connect TV) | Digital Intermediate, Finishing & Broadcast QC | [`our-perfect-wedding-production-workflow`](https://github.com/whitemorengwira/our-perfect-wedding-production-workflow) | [Watch Highlights ↗](https://www.dstv.com/mzansimagic/en-za/show/our-perfect-wedding) |
-| **02** | **Queendom** | BET Africa · Paramount Africa Ch 129 (Clive Morris) | DI Pipeline, Precision Colour Grading, Network QC | [`queendom-bet-africa-broadcast-workflow`](https://github.com/whitemorengwira/queendom-bet-africa-broadcast-workflow) | [Watch Highlights ↗](https://www.youtube.com/watch?v=n-ysRQYivWE) |
-| **03** | **Celebrity Mystery Box** | DStv · Mzansi Magic Ch 161 (Brightfire Pictures) | Colour Grading, DI Finishing & Transmission Specs | [`celebrity-mystery-box-post-pipeline`](https://github.com/whitemorengwira/celebrity-mystery-box-post-pipeline) | [Watch Highlights ↗](https://www.dstv.com/mzansimagic/en-za/show/celebrity-mystery-box) |
-| **04** | **Supabets Gaming Group** | Retail & Digital Platforms | Dynamic Motion Graphics & Digital Asset Pipeline | [`supabets-multimedia-asset-pipeline`](https://github.com/whitemorengwira/supabets-multimedia-asset-pipeline) | [Explore the Work ↗](https://www.supabets.co.za/) |
-| **05** | **SAMF** | Documentary · Archival & Preservation | End-to-End Production, Archival QC & Mastering | [`samf-documentary-production-workflow`](https://github.com/whitemorengwira/samf-documentary-production-workflow) | [Watch the Film ↗](https://www.youtube.com/watch?v=OHdA0_5XssQ) |
-| **06** | **Steward Bank** | Banking Commercial Campaign (Quatrohaus) | Commercial Spot Visualisation & Animation Pipeline | [`steward-bank-broadcast-campaign-workflow`](https://github.com/whitemorengwira/steward-bank-broadcast-campaign-workflow) | [Watch the Advert ↗](https://www.youtube.com/watch?v=mgTaIQ_p-h4&list=PLD973C175DAB62B58&index=15) |
-| **07** | **Date My Family** | DStv · Mzansi Magic Ch 161 (Connect TV) | Episodic DI Finishing, Colour Grading & QC | [`date-my-family-production-workflow`](https://github.com/whitemorengwira/date-my-family-production-workflow) | [Watch Highlights ↗](https://www.dstv.com/mzansimagic/en-za/show/date-my-family) |
-| **08** | **The Wife** | Showmax Original Series (Stained Glass TV) | Episodic Colour Science, 4K HDR DI Workflow | [`the-wife-showmax-grading-pipeline`](https://github.com/whitemorengwira/the-wife-showmax-grading-pipeline) | [Watch Highlights ↗](https://stories.showmax.com/za/originals/the-wife-series) |
-| **09** | **Mkhonto** | Showmax Original Feature Film (M'Darkie Revolution) | Feature Film Cinematic DI Finishing & Mastering | [`mkhonto-showmax-grading-pipeline`](https://github.com/whitemorengwira/mkhonto-showmax-grading-pipeline) | [Official Trailer ↗](https://www.imdb.com/title/tt27827080/) |
-| **10** | **Prosek** | Global Financial Communications | Corporate Motion Systems & High-Tempo Post | [`prosek-corporate-motion-systems`](https://github.com/whitemorengwira/prosek-corporate-motion-systems) | [Explore Prosek ↗](https://www.prosek.com/) |
-| **11** | **Arise South Africa** | Integrated Multi-Channel Campaign | Platform Architecture, Video Production & Brand | [`arise-south-africa-digital-infrastructure`](https://github.com/whitemorengwira/arise-south-africa-digital-infrastructure) | [Visit ASA ↗](https://www.arisesa.org/home) |
-| **12** | **Supa TV** | OVHD Channel 150 | On-Air Design Packaging & Motion Systems | [`supa-tv-channel-branding-pipeline`](https://github.com/whitemorengwira/supa-tv-channel-branding-pipeline) | [Watch Highlights ↗](https://www.youtube.com/channel/UCdjCmnuB6GWz5MCiOEb3LYA) |
-| **13** | **Pastor Wants A Wife** | DStv · Mzansi Magic Ch 161 (Connect TV) | Digital Intermediate, Colour Correction & Online | [`pastor-wants-a-wife-broadcast-workflow`](https://github.com/whitemorengwira/pastor-wants-a-wife-broadcast-workflow) | [Watch Highlights ↗](https://www.dstv.com/mzansimagic/en-za/show/pastor-wants-a-wife) |
-| **14** | **Brand South Africa** | National 20th Anniversary Campaign (Ebony+Ivory) | Multi-Format Campaign Production & Delivery | [`brand-south-africa-20th-anniversary`](https://github.com/whitemorengwira/brand-south-africa-20th-anniversary) | [Visit Brand SA ↗](https://brandsouthafrica.com/) |
-| **15** | **Jit TV** | Regional Broadcaster | On-Air Identity, Motion Graphics & Title Sequences | [`jit-tv-channel-branding-pipeline`](https://github.com/whitemorengwira/jit-tv-channel-branding-pipeline) | [Watch Highlights ↗](https://jit-tv.tv/) |
-| **16** | **ZODIAK TV** | Malawi National Broadcaster | On-Air Motion Design System & Transmission QC | [`zodiak-tv-malawi-channel-branding`](https://github.com/whitemorengwira/zodiak-tv-malawi-channel-branding) | [Watch Highlights ↗](https://www.zodiakmalawi.com/) |
-| **17** | **TIMES TV** | Malawi Commercial Television | Channel Branding & Post-Production Management | [`times-tv-malawi-channel-branding`](https://github.com/whitemorengwira/times-tv-malawi-channel-branding) | [Watch Highlights ↗](https://times.mw/tag/times-television/) |
-| **18** | **Soico Televisão** | Mozambique Commercial Network | On-Air Identity Modernisation & Station IDs | [`soico-tv-mozambique-branding`](https://github.com/whitemorengwira/soico-tv-mozambique-branding) | [Watch Highlights ↗](https://www.stvplay.co.mz/browse) |
-| **19** | **TV MIRAMAR** | Mozambique (Record TV Network) | Broadcast Motion Graphics & Title Sequences | [`tv-miramar-mozambique-branding`](https://github.com/whitemorengwira/tv-miramar-mozambique-branding) | [Watch Highlights ↗](https://miramar.co.mz/tv-online) |
-| **20** | **OPW Zimbabwe** | DStv · Zambezi Magic Ch 162 (Ngoda TV) | DI Colour Grading & Post-Production Training | [`opw-zimbabwe-broadcast-workflow`](https://github.com/whitemorengwira/opw-zimbabwe-broadcast-workflow) | [Watch Highlights ↗](https://www.dstv.com/zambezimagic/en-za/show/our-perfect-wedding-zimbabwe/season/1) |
-| **21** | **Who Is Like You** | Music Video (Direct Worship / Ngoda TV) | Cinematic Finishing & Colour Science | [`who-is-like-you-music-video-grading`](https://github.com/whitemorengwira/who-is-like-you-music-video-grading) | [Watch Music Video ↗](https://www.youtube.com/watch?v=IHOSPLDXISM&list=RDIHOSPLDXISM&start_radio=1) |
+[Socinga Africa](https://www.socinga.africa/) · [Socinga Mining Hub](https://www.socinga.africa/mining-hub) · [EarCodeX](https://earcodex.vercel.app/) · [SAFA ProMax](https://safa-promax.vercel.app/) · [SAM Dossier](https://sam-dossier.vercel.app/)
 
 ---
 
-## 🛠️ Technology Stack & Core Competencies
+## Broadcast, film & creative technology
 
-```
-Cloud Architecture       │ AWS (Lead), Azure, GCP, Cloudflare Workers & Pages
-Infrastructure as Code   │ Terraform, OpenTofu, Docker, CI/CD GitHub Actions
-AI & Automation          │ Anthropic Claude, OpenAI, Model Context Protocol (MCP), Python
-Frontend & Platforms     │ Next.js, React, TypeScript, TailwindCSS, Headless CMS
-Storage & Security       │ S3 Multi-Tier Lifecycle, KMS Customer Keys, IAM RBAC, CloudTrail
-Media & Broadcast Tech   │ DaVinci Resolve Studio (DI/Finishing), FFmpeg, EBU R128, AS-11
-```
+My portfolio also spans colour grading, digital intermediate finishing, motion design, channel branding, multimedia production and delivery workflows across **21 productions and creative projects**.
+
+Each image opens its project repository. These repositories bring together the existing production record, project visuals and reference architecture material. **The cloud and automation models are architectural demonstrations; they are distinct from claims about the infrastructure used on the original production.** My current use of Claude Code and Codex is not a claim that these tools were used on historical productions.
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/whitemorengwira/our-perfect-wedding-production-workflow"><img src="https://raw.githubusercontent.com/whitemorengwira/our-perfect-wedding-production-workflow/main/assets/OPW-fin.webp" alt="Our Perfect Wedding Banner" width="249" height="135"><br><strong>Our Perfect Wedding</strong></a><br>
+<sub>Digital Intermediate, Finishing &amp; Broadcast QC</sub><br><sub>DStv · Mzansi Magic Ch 161 (Connect TV)</sub><br><a href="https://www.dstv.com/mzansimagic/en-za/show/our-perfect-wedding">Watch Highlights ↗</a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/whitemorengwira/queendom-bet-africa-broadcast-workflow"><img src="https://raw.githubusercontent.com/whitemorengwira/queendom-bet-africa-broadcast-workflow/main/assets/queendom.webp" alt="Queendom Banner" width="311" height="135"><br><strong>Queendom</strong></a><br>
+<sub>DI Pipeline, Precision Colour Grading, Network QC</sub><br><sub>BET Africa · Paramount Africa Ch 129 (Clive Morris)</sub><br><a href="https://www.youtube.com/watch?v=n-ysRQYivWE">Watch Highlights ↗</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/whitemorengwira/celebrity-mystery-box-post-pipeline"><img src="https://raw.githubusercontent.com/whitemorengwira/celebrity-mystery-box-post-pipeline/main/assets/celebrity-mystry-box.webp" alt="Celebrity Mystery Box Banner" width="240" height="135"><br><strong>Celebrity Mystery Box</strong></a><br>
+<sub>Colour Grading, DI Finishing &amp; Transmission Specs</sub><br><sub>DStv · Mzansi Magic Ch 161 (Brightfire Pictures)</sub><br><a href="https://www.dstv.com/mzansimagic/en-za/show/celebrity-mystery-box">Watch Highlights ↗</a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/whitemorengwira/supabets-multimedia-asset-pipeline"><img src="https://raw.githubusercontent.com/whitemorengwira/supabets-multimedia-asset-pipeline/main/assets/SUPABETS.webp" alt="Supabets Gaming Group Banner" width="240" height="135"><br><strong>Supabets Gaming Group</strong></a><br>
+<sub>Dynamic Motion Graphics &amp; Digital Asset Pipeline</sub><br><sub>Retail &amp; Digital Platforms</sub><br><a href="https://www.supabets.co.za/">Explore the Work ↗</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/whitemorengwira/samf-documentary-production-workflow"><img src="https://raw.githubusercontent.com/whitemorengwira/samf-documentary-production-workflow/main/assets/SAMF.webp" alt="SAMF Banner" width="135" height="135"><br><strong>SAMF</strong></a><br>
+<sub>End-to-End Production, Archival QC &amp; Mastering</sub><br><sub>Documentary · Archival &amp; Preservation</sub><br><a href="https://www.youtube.com/watch?v=OHdA0_5XssQ">Watch the Film ↗</a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/whitemorengwira/steward-bank-broadcast-campaign-workflow"><img src="https://raw.githubusercontent.com/whitemorengwira/steward-bank-broadcast-campaign-workflow/main/assets/steward-logo.webp" alt="Steward Bank Banner" width="320" height="77"><br><strong>Steward Bank</strong></a><br>
+<sub>Commercial Spot Visualisation &amp; Animation Pipeline</sub><br><sub>Banking Commercial Campaign (Quatrohaus)</sub><br><a href="https://www.youtube.com/watch?v=mgTaIQ_p-h4&list=PLD973C175DAB62B58&index=15">Watch the Advert ↗</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/whitemorengwira/date-my-family-production-workflow"><img src="https://raw.githubusercontent.com/whitemorengwira/date-my-family-production-workflow/main/assets/dmf.webp" alt="Date My Family Banner" width="241" height="135"><br><strong>Date My Family</strong></a><br>
+<sub>Episodic DI Finishing, Colour Grading &amp; QC</sub><br><sub>DStv · Mzansi Magic Ch 161 (Connect TV)</sub><br><a href="https://www.dstv.com/mzansimagic/en-za/show/date-my-family">Watch Highlights ↗</a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/whitemorengwira/the-wife-showmax-grading-pipeline"><img src="https://raw.githubusercontent.com/whitemorengwira/the-wife-showmax-grading-pipeline/main/assets/the-wife.webp" alt="The Wife Banner" width="92" height="135"><br><strong>The Wife</strong></a><br>
+<sub>Episodic Colour Science, 4K HDR DI Workflow</sub><br><sub>Showmax Original Series (Stained Glass TV)</sub><br><a href="https://stories.showmax.com/za/originals/the-wife-series">Watch Highlights ↗</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/whitemorengwira/mkhonto-showmax-grading-pipeline"><img src="https://raw.githubusercontent.com/whitemorengwira/mkhonto-showmax-grading-pipeline/main/assets/mkhonto.webp" alt="Mkhonto Banner" width="240" height="135"><br><strong>Mkhonto</strong></a><br>
+<sub>Feature Film Cinematic DI Finishing &amp; Mastering</sub><br><sub>Showmax Original Feature Film (M'Darkie Revolution)</sub><br><a href="https://www.imdb.com/title/tt27827080/">Official Trailer ↗</a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/whitemorengwira/prosek-corporate-motion-systems"><img src="https://raw.githubusercontent.com/whitemorengwira/prosek-corporate-motion-systems/main/assets/Prosek_Logo.webp" alt="Prosek Banner" width="258" height="135"><br><strong>Prosek</strong></a><br>
+<sub>Corporate Motion Systems &amp; High-Tempo Post</sub><br><sub>Global Financial Communications</sub><br><a href="https://www.prosek.com/">Explore Prosek ↗</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/whitemorengwira/arise-south-africa-digital-infrastructure"><img src="https://raw.githubusercontent.com/whitemorengwira/arise-south-africa-digital-infrastructure/main/assets/ASA.webp" alt="Arise South Africa Banner" width="135" height="135"><br><strong>Arise South Africa</strong></a><br>
+<sub>Platform Architecture, Video Production &amp; Brand</sub><br><sub>Integrated Multi-Channel Campaign</sub><br><a href="https://www.arisesa.org/home">Visit ASA ↗</a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/whitemorengwira/supa-tv-channel-branding-pipeline"><img src="https://raw.githubusercontent.com/whitemorengwira/supa-tv-channel-branding-pipeline/main/assets/supa-tv.webp" alt="Supa TV Banner" width="308" height="135"><br><strong>Supa TV</strong></a><br>
+<sub>On-Air Design Packaging &amp; Motion Systems</sub><br><sub>OVHD Channel 150</sub><br><a href="https://www.youtube.com/channel/UCdjCmnuB6GWz5MCiOEb3LYA">Watch Highlights ↗</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/whitemorengwira/pastor-wants-a-wife-broadcast-workflow"><img src="https://raw.githubusercontent.com/whitemorengwira/pastor-wants-a-wife-broadcast-workflow/main/assets/PWA.webp" alt="Pastor Wants A Wife Banner" width="240" height="135"><br><strong>Pastor Wants A Wife</strong></a><br>
+<sub>Digital Intermediate, Colour Correction &amp; Online</sub><br><sub>DStv · Mzansi Magic Ch 161 (Connect TV)</sub><br><a href="https://www.dstv.com/mzansimagic/en-za/show/pastor-wants-a-wife">Watch Highlights ↗</a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/whitemorengwira/brand-south-africa-20th-anniversary"><img src="https://raw.githubusercontent.com/whitemorengwira/brand-south-africa-20th-anniversary/main/assets/brand_south_africa.webp" alt="Brand South Africa Banner" width="240" height="135"><br><strong>Brand South Africa</strong></a><br>
+<sub>Multi-Format Campaign Production &amp; Delivery</sub><br><sub>National 20th Anniversary Campaign (Ebony+Ivory)</sub><br><a href="https://brandsouthafrica.com/">Visit Brand SA ↗</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/whitemorengwira/jit-tv-channel-branding-pipeline"><img src="https://raw.githubusercontent.com/whitemorengwira/jit-tv-channel-branding-pipeline/main/assets/JIT-TV.webp" alt="Jit TV Banner" width="238" height="135"><br><strong>Jit TV</strong></a><br>
+<sub>On-Air Identity, Motion Graphics &amp; Title Sequences</sub><br><sub>Regional Broadcaster</sub><br><a href="https://jit-tv.tv/">Watch Highlights ↗</a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/whitemorengwira/zodiak-tv-malawi-channel-branding"><img src="https://raw.githubusercontent.com/whitemorengwira/zodiak-tv-malawi-channel-branding/main/assets/zodiak-logo.webp" alt="ZODIAK TV Banner" width="135" height="135"><br><strong>ZODIAK TV</strong></a><br>
+<sub>On-Air Motion Design System &amp; Transmission QC</sub><br><sub>Malawi National Broadcaster</sub><br><a href="https://www.zodiakmalawi.com/">Watch Highlights ↗</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/whitemorengwira/times-tv-malawi-channel-branding"><img src="https://raw.githubusercontent.com/whitemorengwira/times-tv-malawi-channel-branding/main/assets/times-scaled.webp" alt="TIMES TV Banner" width="320" height="113"><br><strong>TIMES TV</strong></a><br>
+<sub>Channel Branding &amp; Post-Production Management</sub><br><sub>Malawi Commercial Television</sub><br><a href="https://times.mw/tag/times-television/">Watch Highlights ↗</a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/whitemorengwira/soico-tv-mozambique-branding"><img src="https://raw.githubusercontent.com/whitemorengwira/soico-tv-mozambique-branding/main/assets/Soico_Televisao.webp" alt="Soico Televisão Banner" width="136" height="135"><br><strong>Soico Televisão</strong></a><br>
+<sub>On-Air Identity Modernisation &amp; Station IDs</sub><br><sub>Mozambique Commercial Network</sub><br><a href="https://www.stvplay.co.mz/browse">Watch Highlights ↗</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/whitemorengwira/tv-miramar-mozambique-branding"><img src="https://raw.githubusercontent.com/whitemorengwira/tv-miramar-mozambique-branding/main/assets/miramar.webp" alt="TV MIRAMAR Banner" width="276" height="135"><br><strong>TV MIRAMAR</strong></a><br>
+<sub>Broadcast Motion Graphics &amp; Title Sequences</sub><br><sub>Mozambique (Record TV Network)</sub><br><a href="https://miramar.co.mz/tv-online">Watch Highlights ↗</a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/whitemorengwira/opw-zimbabwe-broadcast-workflow"><img src="https://raw.githubusercontent.com/whitemorengwira/opw-zimbabwe-broadcast-workflow/main/assets/OPW-ZIMBABWE.webp" alt="OPW Zimbabwe Banner" width="320" height="107"><br><strong>OPW Zimbabwe</strong></a><br>
+<sub>DI Colour Grading &amp; Post-Production Training</sub><br><sub>DStv · Zambezi Magic Ch 162 (Ngoda TV)</sub><br><a href="https://www.dstv.com/zambezimagic/en-za/show/our-perfect-wedding-zimbabwe/season/1">Watch Highlights ↗</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/whitemorengwira/who-is-like-you-music-video-grading"><img src="https://raw.githubusercontent.com/whitemorengwira/who-is-like-you-music-video-grading/main/assets/MM.webp" alt="Who Is Like You Banner" width="241" height="135"><br><strong>Who Is Like You</strong></a><br>
+<sub>Cinematic Finishing &amp; Colour Science</sub><br><sub>Music Video (Direct Worship / Ngoda TV)</sub><br><a href="https://www.youtube.com/watch?v=IHOSPLDXISM&list=RDIHOSPLDXISM&start_radio=1">Watch Music Video ↗</a>
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+
+*Production artwork and logos retain their respective owners' rights. They identify the projects discussed; case studies describe my contribution and reference-architecture scope.*
+
+[Explore the full multimedia portfolio](https://nwhite.systems/my-portfolio/multimedia)
 
 ---
 
-## ⚖️ Professional Integrity & Disclosure Boundary
+## Technology & engineering practice
 
-My public GitHub profile presents sanitised architecture diagrams, Terraform infrastructure modules, high-level workflow designs, and verified public records.
+| Area | Tools and focus |
+| --- | --- |
+| AI-assisted software engineering | Claude Code, OpenAI Codex, code review, debugging, tests and structured handovers |
+| AI applications & automation | Conversational interfaces, retrieval-augmented workflows, model integration, MCP and Python |
+| Android & connected machines | Kotlin, Android applications, kiosk workflows, integration analysis and diagnostic engineering |
+| Web & backend systems | TypeScript, React, Next.js, APIs, service workflows and automated quality checks |
+| Cloud & delivery | AWS, Azure, GCP, Cloudflare, Terraform, Docker and GitHub Actions |
+| Creative & broadcast systems | DaVinci Resolve Studio, colour workflows, FFmpeg, motion design, technical QC and delivery |
 
-Production application code, database migrations, credentials, customer-identifying records, and proprietary client business logic remain confidential by default. Detailed architectural walkthroughs and private repository access are provided under appropriate non-disclosure or engagement agreements.
+## Professional integrity
 
-Read the [Public Disclosure Policy](https://github.com/whitemorengwira/nwhitesystems/blob/main/PUBLIC_DISCLOSURE_POLICY.md).
+This profile presents selected public work, sanitised case studies and illustrative diagrams. It separates my contribution from team-owned products and distinguishes reference designs from verified delivery.
 
----
+Private code, internal agent instructions, customer records and proprietary implementation details are excluded from these portfolio updates. Technical walkthroughs are available where permission and confidentiality allow.
 
-## 📬 Contact & Consultation
+[Public disclosure policy](https://github.com/whitemorengwira/nwhitesystems/blob/main/PUBLIC_DISCLOSURE_POLICY.md)
 
-* **Website**: [nwhite.systems](https://nwhite.systems/)
-* **Direct Brief / Consultation**: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Architecture%20%26%20Engineering%20Consultation)
-* **Book Strategy Session**: [nwhite.systems#contact](https://nwhite.systems/#contact)
+## Contact
 
----
-*© N.White Systems. All rights reserved. Published for professional portfolio review.*
+[**nwhite.systems**](https://nwhite.systems/) · [**hello@nwhite.systems**](mailto:hello@nwhite.systems?subject=Engineering%20portfolio%20walkthrough)
+
+*© N.White Systems. Published for professional portfolio review.*
