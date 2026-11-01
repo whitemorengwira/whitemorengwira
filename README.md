@@ -24,6 +24,29 @@ I operate an independent systems architecture practice delivering across four in
 
 ---
 
+## Sweet Robo · Connected-machine engineering
+
+Alongside my independent practice, my work at **Sweet Robo** includes Android kiosk software, debugging, integration analysis, backend workflows and automated quality checks. These four documentation-only showcases explain my contributions within existing team-owned products.
+
+| Showcase | My contribution | Explore |
+| :--- | :--- | :--- |
+| **Perfume Machine** | Android engineering & kiosk experience | [View case study](https://github.com/whitemorengwira/sweet-robo-perfume-machine) |
+| **Vending Machine** | Integration analysis & engineering readiness | [View case study](https://github.com/whitemorengwira/sweet-robo-vending-machine) |
+| **Photo Booth** | Android diagnostics & test engineering | [View case study](https://github.com/whitemorengwira/sweet-robo-photo-booth) |
+| **Control Centre Engineering** | Backend systems, APIs & quality assurance | [View case study](https://github.com/whitemorengwira/sweet-robo-control-centre-engineering) |
+
+[![Perfume Machine — original concept illustration](https://raw.githubusercontent.com/whitemorengwira/sweet-robo-perfume-machine/main/assets/hero.png)](https://github.com/whitemorengwira/sweet-robo-perfume-machine)
+
+[![Vending Machine — original concept illustration](https://raw.githubusercontent.com/whitemorengwira/sweet-robo-vending-machine/main/assets/hero.png)](https://github.com/whitemorengwira/sweet-robo-vending-machine)
+
+[![Photo Booth — original concept illustration](https://raw.githubusercontent.com/whitemorengwira/sweet-robo-photo-booth/main/assets/hero.png)](https://github.com/whitemorengwira/sweet-robo-photo-booth)
+
+[![Control Centre Engineering — original concept illustration](https://raw.githubusercontent.com/whitemorengwira/sweet-robo-control-centre-engineering/main/assets/hero.png)](https://github.com/whitemorengwira/sweet-robo-control-centre-engineering)
+
+*All artwork is conceptual and AI-generated. These summaries contain no private product code, internal screenshots or operational data; they do not claim sole product authorship or production acceptance.*
+
+---
+
 ## 🌐 Quick Links & Navigation
 
 | Destination | Scope | URL |
